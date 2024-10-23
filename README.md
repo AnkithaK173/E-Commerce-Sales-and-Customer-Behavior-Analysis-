@@ -5,9 +5,6 @@ The E-Commerce Sales and Customer Behavior Analysis project utilizes SQL to anal
 
 This project demonstrates SQL's capabilities in data extraction, cleaning, and analysis to uncover valuable business insights from large datasets.
 
-![image](https://github.com/user-attachments/assets/7f93c69f-6b23-48a0-96fe-a77c0912bf07)
-
-
 **Data Sources**:
 The project is based on three primary datasets:
 
